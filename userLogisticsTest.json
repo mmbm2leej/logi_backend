@@ -1,0 +1,60 @@
+[
+    {
+        "login_id": "userid123",
+        "hashed_password": "$2b$08$/Jl5bxWpNftO4BZowQjpFueSGm7VRF.avvZBhCezev2Rzg4RBj5Wm",
+        "email": "testemail@yahoo.com",
+        "contacts": [
+            {
+                "title": "Mr.",
+                "first_name": "John",
+                "last_name": "Thompson",
+                "mobile_phone": "1234567890",
+                "office_phone": "3214560987",
+                "office_ext": "2670",
+                "fax": "3214561240",
+                "toll_free": "",
+                "toll_free_ext": "",
+                "email": "thompsonj4@thiscompany.com"
+            },
+            {
+                "title": "Ms.",
+                "first_name": "Sarah",
+                "last_name": "Jones",
+                "mobile_phone": "4441234444",
+                "office_phone": "5235551234",
+                "office_ext": "4221",
+                "fax": "",
+                "toll_free": "",
+                "toll_free_ext": "",
+                "email": "thompsonj4@thiscompany.com"
+            }
+        ],
+        "notes": [
+            {
+                "time_stamp": "2020-10-15T21:26:17Z",
+                "body": "this a test note!"
+            },
+            {
+                "time_stamp": "2021-05-22T18:22:52Z",
+                "body": "this a test note!"
+            }
+        ],
+        "provider": [
+            {
+                "zip_code": "42312",
+                "phone": "2221232011",
+                "phone_ext": "",
+                "fax": "2221232012",
+                "toll_free": "8001231234",
+                "email": "thisprovider123@providerservice.com",
+                "primary_contact": "email",
+                "time_zone": "CF",
+                "hour_start": 8,
+                "hour_end": 18,
+                "active": true,
+                "rate_signed": true,
+                "primary": true
+            }
+        ] 
+    }
+]
